@@ -4,3 +4,5 @@ description: "The project is currently archived, with limited ongoing developmen
   However, you can still access a whole bunch of data here
   and learn about this project."
 google_analytics: UA-177940998-1
+plugins:
+  - jekyll-seo-tag
