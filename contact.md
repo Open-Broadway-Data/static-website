@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact.html
-layout: default
+layout: page
 ---
 
 # Contact Us 📞

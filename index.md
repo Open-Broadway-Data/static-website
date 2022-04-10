@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Open Broadway Data – Archive Site
 The project is currently archived (limited ongoing development), however, you can still access a whole bunch of data here
 and learn about this project's history, purpose, successes, and challenges.
