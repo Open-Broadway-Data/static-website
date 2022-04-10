@@ -2,11 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
-z {
-  color: #285BB1;
-}
-
 header {
   h1, h1 a {
    color: #285BB1;
@@ -20,4 +15,23 @@ header {
   p.view small {
     color: #ABC3EB;
   }
+}
+
+form#gform{
+  ul {
+     list-style: none;
+  }
+  li {
+    margin-top: 1em;
+  }
+
+  textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    }
 }
