@@ -2,6 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+:root {
+  --obd-steel-blue: #285BB1;
+  --obd-green: #00AE7A;
+}
+
+
 header {
   h1, h1 a {
    color: #285BB1;

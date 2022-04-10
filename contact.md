@@ -4,7 +4,6 @@ title: "Contact"
 permalink: /contact.html
 layout: default
 ---
-<link rel="stylesheet" type="style/css" href="{{ 'css/style.css' | relative_url }}">
 
 # Contact Us 📞
 <div id="form-explanation">
