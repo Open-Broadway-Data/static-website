@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Contact"
 permalink: /contact.html
 layout: default
@@ -31,7 +30,6 @@ We'd love to hear from you. Fill out the following form and we will get back to 
 </form>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="assets/js/jquery.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
   $("#gform").on("submit", function(e) {
