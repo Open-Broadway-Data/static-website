@@ -11,6 +11,7 @@ Stub for later work
 
 * Current theme: [jekyll-theme-minimal](https://github.com/pages-themes/minimal)
 * Another good theme?: https://github.com/jekyll/minima
+* Look into this (to better deploy the site): https://github.com/jeffreytse/jekyll-deploy-action
 
 ## Running Locally
 Do this command:
