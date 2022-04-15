@@ -1,8 +1,12 @@
 {% if menu %}
   <ul>
   {% for item in menu %}
-    <li class="menu-item-{{ loop.index }}">
+    <li class="menu-item-"{{ forloop.index }}">
       <a href="{{ item.url }}" title="Go to {{ item.title }}">
+        {% if item.is_child %}
+        {% else %}
+            <i class="fas fa-link"></i>
+        {% endif %}
         {% if item.skip_title %}
         {% else %}
           {{ item.title }}
@@ -11,9 +15,10 @@
           {{ item.icon }}
         {% endif %}
       </a>
+      <!-- No children in the menu yet -->
       {% if item.children %}
         {% assign menu = item.children %}
-        {% include menu.html %}
+        {% include menus.html %}
       {% endif %}
     </li>
   {% endfor %}

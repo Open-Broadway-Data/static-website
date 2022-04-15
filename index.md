@@ -3,6 +3,7 @@ layout: default
 title: Home
 menus:
   header:
+    identifier: home
     icon: <i class="fas fa-home"></i>
     skip_title: true
     weight: 1

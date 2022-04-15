@@ -5,6 +5,7 @@ layout: page
 menus:
   header:
     icon: <i class="fas fa-phone"></i>
+    identifier: contact
     skip_title: false
     weight: 2
 ---
