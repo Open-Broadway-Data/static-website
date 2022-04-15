@@ -3,11 +3,12 @@ title: "Contact"
 permalink: /contact.html
 layout: page
 menus:
-  header:
+  about:
     icon: <i class="fas fa-phone"></i>
     identifier: contact
+    is_child: true
     skip_title: false
-    weight: 2
+    weight: 3
 ---
 
 <h1>Contact Us <i class="fas fa-phone"></i></h1>

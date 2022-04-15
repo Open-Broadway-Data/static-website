@@ -2,4 +2,4 @@ header:
   - url: /api
     title: API Documentation
     identifier: api
-    weight: 3
+    weight: 10

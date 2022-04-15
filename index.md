@@ -18,16 +18,14 @@ The project is currently archived, with limited ongoing development.
 ## About this site
 This archive site aims to preserve the past work of this project.
 
-
-Access data here.
-
-
-Read about this project's goals, motivations, successes, and challenges
-here: Foo
+----
+  
+### Key info:
+* If you'd like to access data, you'll want to go here: [Data](data.html)
 
 
-Learn about the goals, motivations, successes, and challenges of this
-project. Additionally, you can access a whole bunch of data.
+* Learn about this project's goals, motivations, successes, and challenges
+here: [Project Summary](project-summary.html)
 
 
-[Get in touch](/contact.html)
+* [Get in touch](/contact.html)
