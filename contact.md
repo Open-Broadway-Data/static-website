@@ -2,9 +2,14 @@
 title: "Contact"
 permalink: /contact.html
 layout: page
+menus:
+  header:
+    icon: <i class="fas fa-phone"></i>
+    skip_title: false
+    weight: 2
 ---
 
-# Contact Us 📞
+<h1>Contact Us <i class="fas fa-phone"></i></h1>
 <div id="form-explanation">
 We'd love to hear from you. Fill out the following form and we will get back to you shortly.
 </div>
