@@ -7,8 +7,10 @@ logo_alt: Open Broadway Data logo
 plugins:
   - jekyll-seo-tag
   - jekyll-menus
+  - jekyll-remote-theme
 
 ### Build settings ###
 github: [metadata]
 repository: Open-Broadway-Data/static-website
+baseurl: ""
 url: https://openbroadwaydata.com
