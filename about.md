@@ -12,8 +12,7 @@ menus:
 # About Us
 Some info about who we are.
 
-*Will be filling this out later!*
-
+*Will be filling this out later!* (cool?)
 
 ### Presentations at Conferences
 Our work has been shared at a conference!
