@@ -9,5 +9,6 @@ plugins:
   - jekyll-menus
 
 ### Build settings ###
+github: [metadata]
 repository: Open-Broadway-Data/static-website
 url: https://openbroadwaydata.com
