@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /contact.html
+permalink: about/contact.html
 layout: page
 menus:
   about:
@@ -8,7 +8,7 @@ menus:
     identifier: contact
     is_child: true
     skip_title: false
-    weight: 3
+    weight: 10
 ---
 
 <h1>Contact Us <i class="fas fa-phone"></i></h1>

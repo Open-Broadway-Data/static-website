@@ -1,24 +1,23 @@
-{% if menu %}
+{%- if menu -%}
   <ul>
-  {% for item in menu %}
+  {%- for item in menu -%}
     <li class="menu-item-"{{ forloop.index }}">
       <a href="{{ item.url }}" title="Go to {{ item.title }}">
-        {% if item.is_child %}
-        {% else %}
+        {%- if item.is_child -%}
+        {%- else -%}
             <i class="fas fa-link"></i>
         {% endif %}
-        {% if item.skip_title %}
-        {% else %}
+        {%- if item.skip_title -%}
+        {%- else -%}
           {{ item.title }}
         {% endif %}
         {%- if item.icon -%}
           {{ item.icon }}
         {% endif %}
       </a>
-      <!-- No children in the menu yet -->
-      {% if item.children %}
+      {%- if item.children -%}
         {% assign menu = item.children %}
-        {% include menus.html %}
+        {%- include menus.html -%}
       {% endif %}
     </li>
   {% endfor %}

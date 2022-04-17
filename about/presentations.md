@@ -1,20 +1,15 @@
 ---
-title: "About"
-permalink: /about.html
+title: "Presentations"
 layout: page
+permalink: /about/presentations.html
 menus:
-  header:
-    identifier: about
-    skip_title: false
+  about:
+    identifier: presentations
+    is_child: True
     weight: 2
 ---
 
-# About Us
-Some info about who we are.
-
-*Will be filling this out later!*
-
-### Presentations at Conferences
+# Presentations at Conferences
 Our work has been shared at a conference!
 
 * See the talk here: (link not posted)
