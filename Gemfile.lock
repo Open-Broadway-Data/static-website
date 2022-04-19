@@ -280,7 +280,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-github-metadata
   jekyll-menus
+  jekyll-relative-links
   jekyll-remote-theme
   rdiscount
 

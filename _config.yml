@@ -8,9 +8,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-menus
   - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-github-metadata
+
+relative_links:
+  enabled:     true
+  collections: false
 
 ### Build settings ###
-github: [metadata]
+github:
+  repository_url: https://github.com/Open-Broadway-Data/static-website
+  is_project_page: true
 repository: Open-Broadway-Data/static-website
 baseurl: ""
 url: https://openbroadwaydata.com

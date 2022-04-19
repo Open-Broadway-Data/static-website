@@ -43,7 +43,7 @@ and began conducting UX (user experience) workshops to better improve our platfo
 
 By winter of 2021, *(~12 months after the project started)*, our partners at
 BTC were able to use our data platform to present [undeniable evidence
-of significant racial disparities within Broadway](http://localhost:4000/data/data-visualizations.html).
+of significant racial disparities within Broadway](/data/data-visualizations.html).
 
 🎉 Using this data as an argument for change, they were able to secure over [30
 fully-paid apprenticeships](https://www.broadwayfellows.com/) for black
