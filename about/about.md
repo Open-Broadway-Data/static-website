@@ -38,7 +38,7 @@ and began conducting UX (user experience) workshops to better improve our platfo
 <div class="warning-msg">
   <i class="fa fa-warning"></i>
   Because our objective now included demographic data, we took extra precautions
-  in building our data platform – to protect peoples' privacy and safety.
+  in building our data platform – to protect people's privacy and safety.
 </div>
 
 By winter of 2021, *(~12 months after the project started)*, our partners at
@@ -67,6 +67,6 @@ through the [Data <i class="fa-solid fa-database"></i>](data.html) section of
 this archive site. _Do keep in mind that this data is no longer updated or
 maintained._
 
-😢 It his here that this narrative concludes, at least for now.
+😢 It is here that this narrative concludes, at least for now.
 > If you would like to see this project have a 2nd life, [reach out](about/contact.html) and
 we'll see if we have enough momentum to proceed.
