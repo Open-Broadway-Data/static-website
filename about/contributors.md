@@ -26,7 +26,7 @@ menus:
   {%- for item in site.data.contributors -%}
     <div class="item">
       <img
-        src="/images/headshots/{{ item.name | replace: " ", "-"}}.jpeg"
+        src="/images/headshots/{{ item.name | downcase | replace: " ", "-"}}.jpeg"
         alt="{{ item.name }} headshot"
       />
       <span class="caption">
