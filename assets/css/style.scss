@@ -71,4 +71,7 @@ form#gform{
     }
 }
 
+/* Nested bullet points should not have crazy margins */
+ul ul { margin: 0 0 0; }
+
 /* Format sections with a nested style */
