@@ -40,6 +40,7 @@ Data is available in the following 2 formats:
 <br>
 
 
+For more data formats, [visit our github](https://github.com/Open-Broadway-Data/static-website/tree/master/assets/data)
 
 
 ----
