@@ -9,27 +9,40 @@ menus:
 ---
 
 # Access Data
-Will be providing archival files here soon.
+Data is available in the following 2 formats:
 
-## Data Formats
-Archival data in many formats will be available here.
+<div class="row">
+  <div class="column regular">
+    <h3>General Use:</h3>
+    <p>Several large CSV files which can be used immediatly for analysis.</p>
+    <br>
+    <a
+      href="assets/data/all_open_broadway_data_general_use.zip"
+      download="all_open_broadway_data.csv.zip">
+    Download General Use data
+    </a>
 
-### CSV format:
-  * General use – 2 or 3 really big files
-  * Database use - many files representing tables, which can be
-    used to reconstruct a databse of your design and choosing
+  </div>
 
-### JSON format:
-  * Captures more data, but harder to work with
+  <div class="column advanced">
+      <h3>Database Use:</h3>
+      <p>Many files representing tables, which can be used to reconstruct a database
+      of your design and choosing.</p>
 
-### Postgres Binary:
-  * Load into a postgres database directly and you'll be up an running in
-    a matter of minutes.
+      <a
+        href="assets/data/all_open_broadway_data_database_use.zip"
+        download="all_open_broadway_data.csv.zip">
+      Download Database Use data
+      </a>
+  </div>
+</div>
+
+<br>
+
+
+
 
 ----
-
-## Troubleshooting
-Will add to this later.
 
 ### Didn't find what you were looking for?
 Send us a message and we'll try to help you out. [Contact Us](contact.html)
