@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+description: Open Broadway Data is an open data platform which aims to collect,
+display, and analyze data from all Broadway shows since 1738.
 menus:
   header:
     identifier: home

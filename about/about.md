@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: Dive deeper into this project's goals, motivations, successes, and challenges.
 permalink: /about.html
 layout: page
 menus:

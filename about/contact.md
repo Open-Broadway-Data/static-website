@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: Get in touch with us here.
 permalink: about/contact.html
 layout: page
 menus:
