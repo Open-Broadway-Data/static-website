@@ -30,6 +30,11 @@ We'd love to hear from you. Fill out the following form and we will get back to 
       Message:<br>
       <textarea name="entry.1215537375" id="entry.1215537375"></textarea>
     </li>
+    <li id="thou-a-bot">
+      Are thou a bot?<br>
+      <small><i>Yes or no?</i></small><br>
+      <input type="text" name="entry.1006641046" id="entry.1006641046">
+    </li>
     <li id="submit">
       <input type="submit" value="Submit">
     </li>
