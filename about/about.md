@@ -31,7 +31,7 @@ be used to solve the industry's present issues.
 We partnered with the [Black Theatre Coalition](https://blacktheatrecoalition.org/)
 who wanted to use such data to identify disparities in theatre demographics.
 
-[Our team](about/contributors.html) got busy designing and prototyping a solution.
+Our team got busy designing and prototyping a solution.
 By July that year *(5 months later)*, we had an MVP
 ([minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product))
 and began conducting UX (user experience) workshops to better improve our platform.
